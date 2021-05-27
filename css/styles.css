@@ -25,3 +25,34 @@ body {
   justify-content: center;
   align-items:flex-start;
 }
+#sidebar {
+  width: 200px;
+  background-color: blue;
+  float: left;
+  margin-right:1em;
+  color:white;
+}
+.header {
+  height:200px;
+  background-image:url('https://images-na.ssl-images-amazon.com/images/I/71C2GlKTYPL.jpg');
+  background-position:center;
+  background-size: contain;
+  align-items: center;
+}
+.header p {
+  background-color:rgba(255, 235, 205, .8);
+  padding:1em;
+}
+.header h1, .header p {
+  margin:auto;
+  width:fit-content;
+}
+.header h1 {
+  padding-top:1.5em;
+}
+#sidebar a {
+  color:white;
+}
+#sidebar h3 {
+  margin:.5em;
+}
