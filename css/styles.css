@@ -24,4 +24,5 @@ body {
   align-items: space-around;
   align-items: center;
   width:auto;
+  justify-content: center;
 }
