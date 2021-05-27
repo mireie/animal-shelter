@@ -21,8 +21,7 @@ body {
   border: solid black 1px;
   display:flex;
   flex-wrap:wrap;
-  align-items: space-around;
-  align-items: center;
   width:auto;
   justify-content: center;
+  align-items:flex-start;
 }
